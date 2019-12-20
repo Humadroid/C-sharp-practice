@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-﻿namespace C_sharp_practice
-=======
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace C_sharp_practice
->>>>>>> d44626c7761e6153d419917927361a7110324ce1
 {
     class TheMainClass
     {
@@ -42,11 +38,7 @@ namespace C_sharp_practice
             Operators operators = new Operators();
             operators.TestOperators();
             
-<<<<<<< HEAD
             //Numbers
-=======
-            //Operators
->>>>>>> d44626c7761e6153d419917927361a7110324ce1
             Numbers numbers = new Numbers();
             numbers.TestNumbers();
             
